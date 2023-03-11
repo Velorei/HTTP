@@ -1,4 +1,4 @@
-|HTTP response status codes (200-299)|Redirection messages|
+|HTTP response status codes (300-399)|Redirection messages|
 |---|---|
 |300 Multiple Choices|The request has more than one possible response. The user agent or user should choose one of them. (There is no standardized way of choosing one of the responses, but HTML links to the possibilities are recommended so the user can pick.)|
 |301 Moved Permanently|The URL of the requested resource has been changed permanently. The new URL is given in the response.|
